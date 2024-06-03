@@ -1,6 +1,6 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Bulma Clean Theme333
+subtitle: This is the demo site for Bulma Clean Theme333
 layout: page
 callouts: home_callouts
 show_sidebar: true
